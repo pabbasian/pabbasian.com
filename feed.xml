@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Payman Abbasian's blog</title>
+    <atom:link href="https://www.pabbasian.com//feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>https://www.pabbasian.com/</link>
+    <description>some description</description>
+    <pubDate>Wed, 04 Jan 2017 01:00:00 +0100</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Hello there</title>
+      <link>https://www.pabbasian.com//articles/hello-world/</link>
+      <pubDate>Wed, 04 Jan 2017 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">https://www.pabbasian.com//articles/hello-world/</guid>
+      <author></author>
+      <description>&lt;p&gt;It’s my first blog post.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A new blog&lt;/p&gt;
+&lt;p&gt;Here I am going to share some of my daily life experiences creating things with computers and I hope you don’t mind if you find some &lt;em&gt;notes to self&lt;/em&gt; most of the time.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
